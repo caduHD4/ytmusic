@@ -1,0 +1,41 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-west-2:639785847452:function:a5f0fb5b-56c8-4236-b7f0-c1531ae148d5:Release_0"
+        },
+        "interfaces": [],
+        "locales": {},
+        "regions": {
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:639785847452:function:a5f0fb5b-56c8-4236-b7f0-c1531ae148d5:Release_0"
+            }
+          },
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:639785847452:function:a5f0fb5b-56c8-4236-b7f0-c1531ae148d5:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:639785847452:function:a5f0fb5b-56c8-4236-b7f0-c1531ae148d5:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "publishingInformation": {
+      "distributionCountries": [],
+      "isAvailableWorldwide": true,
+      "locales": {
+        "pt-BR": {
+          "name": "YouTube Music"
+        }
+      },
+      "testingInstructions": "Sample Testing Instructions."
+    }
+  }
+}
